@@ -3,3 +3,17 @@ let amigos = [];
 
 
 
+
+function agregarAmigo() {
+    inputNombre = document.querySelector("#amigo");
+    nombreAmigo = inputNombre.value;
+
+    if (!nombreAmigo) {
+        alert("Por favor, inserte un nombre.");
+        return;
+    }
+
+    amigos.push(nombreAmigo);
+    inputNombre.value = '';
+
+}
