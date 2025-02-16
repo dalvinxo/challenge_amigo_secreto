@@ -59,8 +59,8 @@ git clone https://github.com/dalvinxo/challenge_amigo_secreto.git
 
 ## Personas Desarrolladoras del Proyecto
 
-- [Dalvin Molina](https://github.com/dalvinxo)
-  
+[<img src="https://avatars.githubusercontent.com/u/60835525?v=4" width=115><br><sub>Dalvin Molina</sub>](https://github.com/dalvinxo)
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
