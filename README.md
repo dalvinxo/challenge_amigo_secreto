@@ -1,4 +1,4 @@
-<h1 align="center"> DESAFIO DE AMIGOS SECRETOS </h1>
+<h1 align="center">DESAFIO DE AMIGOS SECRETOS</h1>
 
 ![Imagen principal de la página](assets/amigo-secreto.png)
 <h2 align="center"> ¿Qué es un desafío de amigos secretos? </h2>
@@ -11,11 +11,9 @@ Un desafío de amigos secretos es un juego en el que insertas un listado de amig
 
 ## Índice
 
-* [Título e imagen de portada](#Título-e-imagen-de-portada)
-* [Insignias](#insignias)
+* [Título e imagen de portada](#desafio-de-amigos-secretos)
 * [Índice](#índice)
 * [Descripción del proyecto](#descripción-del-proyecto)
-* [Estado del proyecto](#Estado-del-proyecto)
 * [Características de la aplicación y demostración]( #Características-de-la-aplicación-y-demostración)
 * [Acceso al proyecto](#acceso-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
@@ -27,12 +25,6 @@ Un desafío de amigos secretos es un juego en el que insertas un listado de amig
 ## Descripción del proyecto
 
 El Desafío de Amigos Secretos es una divertida herramienta que permite a los usuarios insertar una lista de amigos y sortear aleatoriamente un amigo de la lista. Perfecto para reuniones y eventos festivos.
-
-## Estado del proyecto
-
-🚧 Proyecto en construcción 🚧
-
-El proyecto actualmente está en desarrollo, y se añadirán más características en futuras actualizaciones.
 
 ## Características de la aplicación y demostración
 
