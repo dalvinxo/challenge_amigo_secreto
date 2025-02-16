@@ -3,13 +3,15 @@ let amigos = [];
 
 function sortearAmigo() {
 
-    if(amigo.length == 0) {
+    let cantidadAmigo = amigos.length;
+
+    if(cantidadAmigo == 0) {
        alert("No hay amigos para sortear.");
        return;
-    }
-
-    let indiceAleatorio = Math.floor(Math.random() * amigo.length);
-    let amigoSorteado = amigo[indiceAleatorio];
+    }   
+    
+    let indiceAleatorio = Math.floor(Math.random() * cantidadAmigo);
+    let amigoSorteado = amigos[indiceAleatorio];
 
     let ElementoResultado = document.getElementById('resultado');
     ElementoResultado.innerHTML = amigoSorteado;
@@ -36,6 +38,11 @@ function agregarAmigo() {
 
     if (!nombreAmigo) {
         alert("Por favor, inserte un nombre.");
+        return;
+    }
+
+     if(amigos.includes(nombreAmigo)){
+        alert("El amigo ya existe en la lista.");
         return;
     }
 
