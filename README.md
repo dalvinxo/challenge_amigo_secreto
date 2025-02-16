@@ -17,7 +17,6 @@ Un desafío de amigos secretos es un juego en el que insertas un listado de amig
 * [Características de la aplicación y demostración]( #Características-de-la-aplicación-y-demostración)
 * [Acceso al proyecto](#acceso-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 * [Licencia](#licencia)
 * [Conclusión](#conclusión)
@@ -35,7 +34,7 @@ El Desafío de Amigos Secretos es una divertida herramienta que permite a los us
 ### Demostración:
 ![Demostración](assets/demostracion.png)
 
-## Acceso al proyecto
+## Acceso proyecto
 
 Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secretos](https://github.com/dalvinxo/challenge_amigo_secreto)
 
